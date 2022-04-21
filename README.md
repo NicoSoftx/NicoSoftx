@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   * Proyecto Batch 🔭 (En proceso)
   * Teclados multiples para lanzar macros.🔭 (En proceso)
   
-![MundoVirtual-X](barra.gif)
+![MundoVirtual-X](barra.gif)![MundoVirtual-X](barra.gif)
 #### Mi lema [^1].
 #### Me gusta y me derrite.[^2].  
 
