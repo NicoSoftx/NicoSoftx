@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/NicoSoftx/">![FACEBOOK](Facebook.png)</a>  <a href="https://www.instagram.com/nicosoftx/">![INSTAGRAM](Instagram.png)</a> 
 <a href="https://www.youtube.com/user/nicosoftxx/videos">![MundoVirtual-X](Youtube.png)</a>
-  
- [YOUTUBE](https://www.youtube.com/user/nicosoftxx/videos "Conoceme en mi sitio")
-  
+
 ## Erace una ves el mundo cambiante.
-***
   * Proyecto Batch 🔭 (En proceso)
   * Teclados multiples para lanzar macros.🔭 (En proceso)
   
@@ -32,3 +29,4 @@ Here are some ideas to get you started:
 [^2]: La ciencia es un placer cuando puedo participar de esta
       buscando transformar el mundo.
 
+ [YOUTUBE](https://www.youtube.com/user/nicosoftxx/videos "Conoceme en mi sitio")
